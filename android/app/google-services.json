@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238923549865",
+    "project_id": "admin-mnagement-app",
+    "storage_bucket": "admin-mnagement-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238923549865:android:fe26438b46cc620ddeedb8",
+        "android_client_info": {
+          "package_name": "com.example.admin_management_ff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238923549865-5mls6fk4j9rgtf3nvbj3nln7fk94su7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG8oon72jclZWoELfxI7hvIHKXgGE4koQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238923549865-5mls6fk4j9rgtf3nvbj3nln7fk94su7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
